@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB75706B-09D0-496E-97F0-F7DBF584E020}|28_NguyenVinhKhiem_N1_NUnitTester\\28_NguyenVinhKhiem_N1_NUnitTester.csproj|C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\28_nguyenvinhkhiem_n1_nunittester\\28_khiem_data\\28_khiem_file.csv||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EB75706B-09D0-496E-97F0-F7DBF584E020}|28_NguyenVinhKhiem_N1_NUnitTester\\28_NguyenVinhKhiem_N1_NUnitTester.csproj|solutionrelative:28_nguyenvinhkhiem_n1_nunittester\\28_khiem_data\\28_khiem_file.csv||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB75706B-09D0-496E-97F0-F7DBF584E020}|28_NguyenVinhKhiem_N1_NUnitTester\\28_NguyenVinhKhiem_N1_NUnitTester.csproj|C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\28_nguyenvinhkhiem_n1_nunittester\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB75706B-09D0-496E-97F0-F7DBF584E020}|28_NguyenVinhKhiem_N1_NUnitTester\\28_NguyenVinhKhiem_N1_NUnitTester.csproj|solutionrelative:28_nguyenvinhkhiem_n1_nunittester\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CF4C0-F985-4757-A00D-725776B6E16F}|28_NguyenVinhKhiem_N1_NUnit.csproj|c:\\users\\ngvin\\onedrive\\28_nguyenvinhkhiem_n1_ktpm\\28_nguyenvinhkhiem_n1_nunit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{714CF4C0-F985-4757-A00D-725776B6E16F}|28_NguyenVinhKhiem_N1_NUnit.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CF4C0-F985-4757-A00D-725776B6E16F}|28_NguyenVinhKhiem_N1_NUnit.csproj|C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\ptbac2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CF4C0-F985-4757-A00D-725776B6E16F}|28_NguyenVinhKhiem_N1_NUnit.csproj|solutionrelative:ptbac2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CF4C0-F985-4757-A00D-725776B6E16F}|28_NguyenVinhKhiem_N1_NUnit.csproj|C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CF4C0-F985-4757-A00D-725776B6E16F}|28_NguyenVinhKhiem_N1_NUnit.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{714CF4C0-F985-4757-A00D-725776B6E16F}|28_NguyenVinhKhiem_N1_NUnit.csproj|C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{714CF4C0-F985-4757-A00D-725776B6E16F}|28_NguyenVinhKhiem_N1_NUnit.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "28_Khiem_file.csv",
+              "DocumentMoniker": "C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\28_NguyenVinhKhiem_N1_NUnitTester\\28_Khiem_Data\\28_Khiem_file.csv",
+              "RelativeDocumentMoniker": "28_NguyenVinhKhiem_N1_NUnitTester\\28_Khiem_Data\\28_Khiem_file.csv",
+              "ToolTip": "C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\28_NguyenVinhKhiem_N1_NUnitTester\\28_Khiem_Data\\28_Khiem_file.csv",
+              "RelativeToolTip": "28_NguyenVinhKhiem_N1_NUnitTester\\28_Khiem_Data\\28_Khiem_file.csv",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002120|",
+              "WhenOpened": "2024-05-03T07:14:17.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\28_NguyenVinhKhiem_N1_NUnitTester\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "28_NguyenVinhKhiem_N1_NUnitTester\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\28_NguyenVinhKhiem_N1_NUnitTester\\UnitTest1.cs",
+              "RelativeToolTip": "28_NguyenVinhKhiem_N1_NUnitTester\\UnitTest1.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T01:30:53.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T00:57:49.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBYAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T00:47:02.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PTBac2.cs",
+              "DocumentMoniker": "C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\PTBac2.cs",
+              "RelativeDocumentMoniker": "PTBac2.cs",
+              "ToolTip": "C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\PTBac2.cs",
+              "RelativeToolTip": "PTBac2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T16:34:07.669Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\ngvin\\OneDrive\\28_NguyenVinhKhiem_N1_KTPM\\28_NguyenVinhKhiem_N1_NUnit\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-01T14:44:11.363Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

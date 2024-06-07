@@ -1,0 +1,10 @@
+C:\Users\ngvin\OneDrive\28_NguyenVinhKhiem_N1_KTPM\28_NguyenVinhKhiem_N1_NUnit\obj\Debug\28_NguyenVinhKhiem_N1_NUnit.csproj.AssemblyReference.cache
+C:\Users\ngvin\OneDrive\28_NguyenVinhKhiem_N1_KTPM\28_NguyenVinhKhiem_N1_NUnit\obj\Debug\_28_NguyenVinhKhiem_N1_NUnit.Properties.Resources.resources
+C:\Users\ngvin\OneDrive\28_NguyenVinhKhiem_N1_KTPM\28_NguyenVinhKhiem_N1_NUnit\obj\Debug\28_NguyenVinhKhiem_N1_NUnit.csproj.GenerateResource.cache
+C:\Users\ngvin\OneDrive\28_NguyenVinhKhiem_N1_KTPM\28_NguyenVinhKhiem_N1_NUnit\obj\Debug\28_NguyenVinhKhiem_N1_NUnit.csproj.CoreCompileInputs.cache
+C:\Users\ngvin\OneDrive\28_NguyenVinhKhiem_N1_KTPM\28_NguyenVinhKhiem_N1_NUnit\bin\Debug\28_NguyenVinhKhiem_N1_NUnit.exe.config
+C:\Users\ngvin\OneDrive\28_NguyenVinhKhiem_N1_KTPM\28_NguyenVinhKhiem_N1_NUnit\bin\Debug\28_NguyenVinhKhiem_N1_NUnit.exe
+C:\Users\ngvin\OneDrive\28_NguyenVinhKhiem_N1_KTPM\28_NguyenVinhKhiem_N1_NUnit\bin\Debug\28_NguyenVinhKhiem_N1_NUnit.pdb
+C:\Users\ngvin\OneDrive\28_NguyenVinhKhiem_N1_KTPM\28_NguyenVinhKhiem_N1_NUnit\obj\Debug\28_NguyenVinhKhiem_N1_NUnit.exe
+C:\Users\ngvin\OneDrive\28_NguyenVinhKhiem_N1_KTPM\28_NguyenVinhKhiem_N1_NUnit\obj\Debug\28_NguyenVinhKhiem_N1_NUnit.pdb
+C:\Users\ngvin\OneDrive\28_NguyenVinhKhiem_N1_KTPM\28_NguyenVinhKhiem_N1_NUnit\obj\Debug\_28_NguyenVinhKhiem_N1_NUnit.Form1.resources
